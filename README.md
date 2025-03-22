@@ -1,3 +1,3 @@
 # First-Demo
 This is my first Git Repository
-Author - Heer Prajapati
+Author - Hiral Prajapati
